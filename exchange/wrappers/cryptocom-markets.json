@@ -1,0 +1,23 @@
+{
+  "assets": [
+    "USDT",
+    "CRO"
+  ],
+  "currencies": [
+    "CRO",
+	"USDT"
+  ],
+  "markets": [
+    {
+      "pair": [
+        "USDT",
+        "CRO"
+      ],
+      "minimalOrder": {
+        "amount": 0.01,
+        "price": 1e-7,
+        "order": 0.001
+      }
+    }
+  ]
+}
